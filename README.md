@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studying Computer Engineering at University of Barcelona
+I am a Computer Engineering student at the University of Barcelona with a strong interest in data analysis, artificial intelligence, and web development. I am especially passionate about frontend design and creating clean, user-friendly interfaces. I am motivated by the challenge of combining data, AI, and design to develop innovative digital solutions.
 
 
 ## 🌐 Socials:
